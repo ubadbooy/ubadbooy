@@ -32,8 +32,6 @@
 <p align="left">
 <a href="https://dev.to/uditjain_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="uditjain_100" height="30" width="40" /></a>
 <a href="https://twitter.com/uditjain_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="uditjain_100" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/udit-jain-8a38a016a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="udit-jain-8a38a016a/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12661831" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12661831" height="30" width="40" /></a>
 <a href="https://fb.com/udit.jain.7796" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="udit.jain.7796" height="30" width="40" /></a>
 <a href="https://instagram.com/uditjain_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="uditjain_100" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/C4SsYFS5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/C4SsYFS5" height="30" width="40" /></a>
