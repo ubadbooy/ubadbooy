@@ -42,3 +42,4 @@
 <code><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"></code>
 </div>
 
+<h2> 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif" width="24px" style="max-width:100%;"></h2>
