@@ -10,7 +10,7 @@
 
 
 <!--- About You --->   
-<h2> 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"></h2>
+<h2> 𝓐𝓫𝓸𝓾𝓽  𝓶𝓮 <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"></h2>
 
 <a target="_blank">
    <img align="right" height="250" width= "280px" alt="GIF" src="https://cdn.discordapp.com/attachments/909263335193727006/995820049619222538/istockphoto-923733420-612x612-removebg-preview.png" />
@@ -28,7 +28,7 @@
 
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮:</h3>
 <p align="left">
 <a href="https://twitter.com/Ubadbooy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="uditjain_100" height="30" width="40" /></a>
 <a href="https://instagram.com/baarr_bood" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="baarr_bood" height="30" width="40" /></a>
@@ -36,7 +36,7 @@
 
 </p>
  <!--- Skills --->        
-<h2> 𝙎𝙠𝙞𝙡𝙡𝙨 </h2>
+<h2> 𝓼𝓴𝓲𝓵𝓵𝓼 </h2>
 <div align="center">
 <code><img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"></code>
 <code><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"></code>
