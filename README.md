@@ -40,8 +40,6 @@
 <a href="https://www.hackerrank.com/uditjain_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="uditjain_100" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/uditjain_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="uditjain_100" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/uditjain_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="uditjain_100" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/uditjain_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="uditjain_100" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/uditjain_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/uditjain_100" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/C4SsYFS5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/C4SsYFS5" height="30" width="40" /></a>
 
 </p>
