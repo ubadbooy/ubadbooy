@@ -10,7 +10,7 @@
 
 
 <!--- About You --->   
-<h2> 𝓐𝓫𝓸𝓾𝓽  𝓶𝓮 <img src="https://github.com/trinib/trinib/blob/main/.images/marquee.svg" width="24px" style="max-width:100%;"></h2>
+<h2> <img src="https://github.com/trinib/trinib/blob/main/.images/marquee.svg" width="240px" style="max-width:100%;"></h2>
 
 <a target="_blank">
    <img align="right" height="250" width= "280px" alt="GIF" src="https://cdn.discordapp.com/attachments/909263335193727006/995820049619222538/istockphoto-923733420-612x612-removebg-preview.png" />
