@@ -43,7 +43,7 @@
 <a href="https://www.hackerearth.com/uditjain_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="uditjain_100" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/uditjain_100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/uditjain_100" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/C4SsYFS5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/C4SsYFS5" height="30" width="40" /></a>
-<a href="/https://dashboard.rss.com/jain30udit@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://dashboard.rss.com/jain30udit@gmail.com" height="30" width="40" /></a>
+
 </p>
  <!--- Skills --->        
 <h2> 𝙎𝙠𝙞𝙡𝙡𝙨 </h2>
