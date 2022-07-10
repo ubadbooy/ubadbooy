@@ -34,6 +34,7 @@
 <a href="https://instagram.com/baarr_bood" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="baarr_bood" height="30" width="40" /></a>
 <a href="https://discord.gg/KUgBxwFufS" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/KUgBxwFufS" height="30" width="40" /></a>
 
+<h2> <img src="https://github.com/trinib/trinib/blob/main/.images/marquee2.svg" width="340px" style="max-width:100%;"></h2>  
 </p>
  <!--- Skills --->        
 <h2> 𝓼𝓴𝓲𝓵𝓵𝓼 </h2>
@@ -46,4 +47,3 @@
 <code><img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vs"></code>
 <code><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"></code>
 </div>
-<h2> <img src="https://github.com/trinib/trinib/blob/main/.images/footer.svg" width="840px" style="max-width:100%;"></h2>
