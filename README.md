@@ -26,6 +26,7 @@
   
 - ⚡ Fun fact: Nice Fivem Developer
 
+<h2> <img src="https://github.com/trinib/trinib/blob/main/.images/marquee2.svg" width="340px" style="max-width:100%;"></h2>  
 <br/>
 
 <h3 align="left">𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮</h3>
@@ -34,7 +35,6 @@
 <a href="https://instagram.com/baarr_bood" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="baarr_bood" height="30" width="40" /></a>
 <a href="https://discord.gg/KUgBxwFufS" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/KUgBxwFufS" height="30" width="40" /></a>
 
-<h2> <img src="https://github.com/trinib/trinib/blob/main/.images/marquee2.svg" width="340px" style="max-width:100%;"></h2>  
 </p>
  <!--- Skills --->        
 <h2> 𝓼𝓴𝓲𝓵𝓵𝓼 </h2>
