@@ -2,7 +2,7 @@
 <h1 align="center">
   𝙒𝙚𝙡𝙘𝙤𝙢𝙚 &lt; My GitHub &gt; !
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" width="40px" />
   </a>
 </h1>
       
@@ -41,5 +41,3 @@
 <code><img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vs"></code>
 <code><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"></code>
 </div>
-
-<h2> 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif" width="24px" style="max-width:100%;"></h2>
