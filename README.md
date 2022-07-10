@@ -29,6 +29,7 @@
 <br/>
 
 
+![Anurag's GitHub stats](https://github.com/ubadbooy&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
  <!--- Skills --->        
 <h2> 𝙎𝙠𝙞𝙡𝙡𝙨 </h2>
