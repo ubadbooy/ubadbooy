@@ -2,7 +2,7 @@
 <h1 align="center">
   𝙒𝙚𝙡𝙘𝙤𝙢𝙚 &lt; My GitHub &gt; !
   <a target="_blank">
-    <img src="https://github.com/trinib/trinib/blob/main/.images/marquee.svg" width="40px" />
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" width="40px" />
   </a>
 </h1>
       
