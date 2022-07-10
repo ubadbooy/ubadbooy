@@ -28,7 +28,7 @@
 
 <br/>
 
-<h3 align="left">𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮:</h3>
+<h3 align="left">𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮</h3>
 <p align="left">
 <a href="https://twitter.com/Ubadbooy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="uditjain_100" height="30" width="40" /></a>
 <a href="https://instagram.com/baarr_bood" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="baarr_bood" height="30" width="40" /></a>
