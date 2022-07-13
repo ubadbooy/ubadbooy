@@ -16,19 +16,19 @@
    <img align="right" height="250" width= "280px" alt="GIF" src="https://cdn.discordapp.com/attachments/909263335193727006/995820049619222538/istockphoto-923733420-612x612-removebg-preview.png" />
 </a>
 
-<h2> <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="140px" style="max-width:100%;"></h2>
+<h2> <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="40px" style="max-width:100%;"></h2>
 - 🔭 I’m currently working on a FiveM Server, stay tuned!
   
-<h2> <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="140px" style="max-width:100%;"></h2>
+<h2> <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="40px" style="max-width:100%;"></h2>
 - 🌱 I’m currently learning Csharp!
   
-<h2> <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="140px" style="max-width:100%;"></h2>
+<h2> <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="40px" style="max-width:100%;"></h2>
 - 👯 I’m looking to collaborate on FiveM Projects
   
-<h2> <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="140px" style="max-width:100%;"></h2>
+<h2> <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="40px" style="max-width:100%;"></h2>
 - 💬 Ask me about Lua, FiveM, and much more! I am always happy to help
   
-<h2> <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="140px" style="max-width:100%;"></h2>
+<h2> <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="40px" style="max-width:100%;"></h2>
 - ⚡ Fun fact: Nice Fivem Developer 
 
 <h2> <img src="https://github.com/trinib/trinib/blob/main/.images/marquee2.svg" width="340px" style="max-width:100%;"></h2>  
