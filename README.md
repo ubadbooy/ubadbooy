@@ -27,7 +27,7 @@
   
 - 💬 Ask me about Lua, FiveM, and much more! I am always happy to help <h2> <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="20px" style="max-width:100%;"></h2>
   
-- ⚡ Fun fact: Nice Fivem Developer  <h2> <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="20px" style="max-width:100%;"></h2>
+<h2> <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="20px" style="max-width:100%;"></h2> Fun fact: Nice Fivem Developer 
 
 <h2> <img src="https://github.com/trinib/trinib/blob/main/.images/marquee2.svg" width="340px" style="max-width:100%;"></h2>  
 <br/>
